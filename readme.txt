@@ -1,5 +1,3 @@
-БД:
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65b5f76e-65ca-4018-b41a-cfdd3765dcf3/movies.db
 
 # Простая версия
 
